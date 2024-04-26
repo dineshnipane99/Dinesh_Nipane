@@ -1,4 +1,4 @@
-![logo](https://github.com/dineshnipane99/Dinesh-Nipane/blob/main/new%20upload%20copy.jpg)
+![logo](https://github.com/dineshnipane99/Dinesh_Nipane/blob/main/new%20upload%20copy.jpg)
 <h1 align="center">Hi 👋, I'm Dinesh Nipane</h1>
 <h3 align="center">I am Currently Working as a Associate</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0tZVolSLsbxaq4qCKYUqsLY4RCM1kFq2RyPPugEtI-A&s">
